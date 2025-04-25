@@ -1,5 +1,7 @@
-# EC513 Spring 2023 Project
-Clone the Gem5 repository and implement the policy of your choosing. Please follow the guidelines in the project document.
-
-Run the simulations according to the project document and upload your source code and the results in the repo.
-Your results should be in the `output/` directory.
+# EC513 Spring 2025 Project
+All changed files are under replacement_policy folder.Changed files are:
+base.hh
+lfu_rp.cc
+lfu_rp.hh (our implementation is in lfu_rp.cc)
+replaceable_entry.hh
+ 
